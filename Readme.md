@@ -8,7 +8,7 @@
 
 ## 🛠️ Мой стек:  
 ### **Языки:**  
-- JavaScript (JS), TypeScript (TS)  
+- JavaScript (JS), TypeScript (TS), Python (базовый уровень)  
 
 ### **Backend:**  
 - Node.js, Express.js  
