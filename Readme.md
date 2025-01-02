@@ -6,18 +6,20 @@
 
 ---
 
-## 🛠️ Мой стек:  
-### **Языки:**  
-- JavaScript (JS), TypeScript (TS), Python (базовый уровень)  
+### 🛠️ **Мой стек**  
 
-### **Backend:**  
-- Node.js, Express.js  
-
-### **Базы данных:**  
-- MongoDB, PostgreSQL  
-
-### **Frontend:**  
-- React.js (с использованием TypeScript), SCSS  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)  
+![React.js](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=black)  
+![SCSS](https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white)  
+![WebStorm](https://img.shields.io/badge/-WebStorm-000000?logo=webstorm&logoColor=white)  
 
 ---
 
