@@ -8,18 +8,18 @@
 
 ### 🛠️ **Мой стек**  
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white)  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)  
-![React.js](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=black)  
-![SCSS](https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
-![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white)  
-![WebStorm](https://img.shields.io/badge/-WebStorm-000000?logo=webstorm&logoColor=white)  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40"/>  
+<img src="https://camo.githubusercontent.com/7654611cc0c150086ff9327653d5d31ba93e71411ca0d4b98b1e1918631d2b05/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f707974686f6e2f707974686f6e2d6f726967696e616c2e737667" alt="Python" width="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SCSS" width="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" alt="WebStorm" width="40"/>  
 
 ---
 
