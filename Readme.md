@@ -18,9 +18,9 @@
 ---
 
 ## 📈 Статистика:  
-![GitHub Статистика](https://github-readme-stats.vercel.app/api?username=Rozioi&show_icons=true&theme=tokyonight)  
+![GitHub Статистика](https://github-readme-stats.vercel.app/api?username=Rozioi&show_icons=true&theme=tokyonight)  ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Rozioi&theme=tokyonight&hide_border=true)  
 ![Самые используемые языки](https://github-readme-stats.vercel.app/api/top-langs/?username=Rozioi&layout=compact&theme=tokyonight)  
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Rozioi&theme=tokyonight&hide_border=true)  
+
 
 ### 📌 Лучшие репозитории:  
 [![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=Rozioi&repo=WIP-Messenger&theme=tokyonight)](https://github.com/Rozioi/WIP-Messenger)  
