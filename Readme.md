@@ -24,6 +24,7 @@
 
 ### 📌 Best Repositories:  
 [![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=Rozioi&repo=WIP-Messenger&theme=tokyonight)](https://github.com/Rozioi/WIP-Messenger)  
+[![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=Rozioi&repo=HomeDrive&theme=tokyonight)](https://github.com/Rozioi/HomeDrive)  
 
 ---
 
