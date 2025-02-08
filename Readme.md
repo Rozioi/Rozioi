@@ -5,7 +5,6 @@
 
 🎯 **JavaScript/TypeScript Developer** | 💻 **Backend/Frontend Enthusiast** | 🚀 **Conquering New Peaks in IT**  
 
-
 ---
 
 ### 🛠️ **My Tech Stack**  
