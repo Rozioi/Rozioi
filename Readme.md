@@ -49,6 +49,7 @@
 
 ---
 
+![snake gif](https://github.com/Rozioi/Rozioi/blob/output/github-contribution-grid-snake.gif)
 
 ✨ **Let's build the future together!**  
 
