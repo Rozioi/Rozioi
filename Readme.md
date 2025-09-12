@@ -31,7 +31,7 @@
 
 ## 🌍 How to Contact Me:  
 - 📫 **Email:** [ivanzheleznuy@gmail.com](mailto:ivanzheleznuy@gmail.com)  
-- 💬 **Telegram:** [Rozioi](https://t.me/Ivan_zhelezny)  
+- 💬 **Telegram:** [Ousyiyme](https://t.me/ousyiyme)  
 
 ---
 
