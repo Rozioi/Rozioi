@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vanya!
+# 👋 Hi, I'm Ousyiyme!
 
 🎯 **Full-Stack JavaScript/TypeScript Developer** | 🚀 **Turning Ideas into Scalable Solutions**
 
@@ -10,7 +10,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 
 **Backend:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastify/fastify-original.svg" alt="Fastify" width="40" height="40"/>
 
 **Databases:**  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
@@ -27,15 +27,11 @@
 
 ### [WIP-Messenger](https://github.com/Rozioi/WIP-Messenger) 💬
 **Real-time web messenger** with instant messaging and user presence  
-*Tech: React, Node.js, Socket.io, MongoDB, JWT*
+*Tech: React, Node.js, MongoDB, JWT*
 
 ### [HomeDrive](https://github.com/Rozioi/HomeDrive) 📁
 **Cloud file storage** with user authentication and file management  
 *Tech: Express.js, PostgreSQL, JWT, Multer, React*
-
-### More Projects:
-- **Project Alpha** - E-commerce platform backend (Node.js, Stripe API, Redis)
-- **Project Beta** - Task management dashboard (React, TypeScript, Chart.js)
 
 ---
 
@@ -70,7 +66,6 @@
 
 - 📧 **Email:** [ivanzheleznuy@gmail.com](mailto:ivanzheleznuy@gmail.com)
 - 💬 **Telegram:** [@Ousyiyme](https://t.me/ousyiyme)
-- 💼 **LinkedIn:** *[Add your LinkedIn URL here]*
 - 🐙 **GitHub:** [github.com/Rozioi](https://github.com/Rozioi)
 
 ---
@@ -78,7 +73,7 @@
 ## 🎯 **About Me**
 
 🚀 **Passionate developer** focused on creating efficient, scalable full-stack applications.  
-🌱 **Currently exploring:** Microservices architecture, Docker, and performance optimization.  
+🌱 **Currently exploring:** Fastify, microservices architecture, Docker, and performance optimization.  
 💡 **Believe in:** Clean code, continuous learning, and solving real-world problems through technology.  
 🎯 **Motto:** *"Every line of code is a step toward mastery!"*
 
