@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ousyiyme!
+# 👋 Hi, I'm Ousyiyme !
 
 🎯 **Full-Stack JavaScript/TypeScript Developer** | 🚀 **Turning Ideas into Scalable Solutions**
 
@@ -43,7 +43,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rozioi&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rozioi&layout=compact&theme=tokyonight&hide_border=true)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Rozioi&theme=tokyonight&hide_border=true)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rozioi&theme=tokyonight&hide_border=true)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Rozioi&color=0e75b6&style=flat)
@@ -83,7 +82,7 @@
 ## 🌍 **Languages**
 
 - **Russian** 🇷🇺 Native
-- **English** 🇬🇧 Intermediate (B1/B2) - Technical documentation, professional communication
+- **English** 🇬🇧 Intermediate (B1/B2) - Technical documentation
 
 ---
 
@@ -103,4 +102,4 @@
 
 ---
 
-*✨ Updated with ❤️ by Vanya • Last update: March 2024*
+*✨ Updated with ❤️ by Vanya • Last update: December 2025*
