@@ -51,17 +51,6 @@
 
 ---
 
-## 🌟 **Pinned Repositories**
-
-<div align="center">
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rozioi&repo=WIP-Messenger&theme=tokyonight)](https://github.com/Rozioi/WIP-Messenger)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rozioi&repo=HomeDrive&theme=tokyonight)](https://github.com/Rozioi/HomeDrive)
-
-</div>
-
----
-
 ## 📫 **Connect With Me**
 
 - 📧 **Email:** [ivanzheleznuy@gmail.com](mailto:ivanzheleznuy@gmail.com)
