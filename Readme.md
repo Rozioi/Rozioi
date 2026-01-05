@@ -28,7 +28,7 @@
 
 ### [WIP-Messenger](https://github.com/Rozioi/WIP-Messenger) 💬
 **Real-time web messenger** with instant messaging and user presence  
-*Tech: React, Node.js, MongoDB, JWT*
+*Tech: React, Node.js, MongoDB, JWT, WebSocket*
 
 ### [HomeDrive](https://github.com/Rozioi/HomeDrive) 📁
 **Cloud file storage** with user authentication and file management  
