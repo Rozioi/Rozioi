@@ -91,4 +91,4 @@
 
 ---
 
-*✨ Updated with ❤️ by Vanya • Last update: December 2025*
+*✨ Updated with ❤️ by Vanya • Last update: January 2026*
