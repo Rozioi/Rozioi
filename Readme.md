@@ -1,11 +1,16 @@
-# 👋 Hi, I'm Ousyiyme !
-
+<a href="https://github.com/Rozioi">
+<img height="70" src="https://readme-typing-svg.herokuapp.com?lines=Hi+there!+I'am+Ivan+(Rozio);Full-stack+Developer;Founder+of+Dev+Studio&duration=2500&speed=20&colors=FFE15D,FF5733,33FF57,3357FF,FF33A6&width=600"/>
+</a>
 
 🎯 **Full-Stack JavaScript/TypeScript Developer** | 🚀 **Turning Ideas into Scalable Solutions**
 
 
 ---
 
+
+<p align="center">
+    <a href="https://github.com/Rozioi"><img src="https://github-readme-streak-stats.herokuapp.com?user=Rozioi&theme=gotham&hide_border=false" width="400px" alt="@Rozio's streak-stats"/></a>
+</p>
 
 ### 🛠️ **Tech Stack**
 
@@ -17,11 +22,11 @@
     <td align="center" width="80"><img src="https://skillicons.dev/icons?i=react" width="43" height="43"/><br>React</td>
     <td align="center" width="80"><img src="https://skillicons.dev/icons?i=nodejs" width="43" height="43"/><br>Node.js</td>
     <td align="center" width="80"><img src="https://skillicons.dev/icons?i=ts" width="43" height="43"/><br>TypeScript</td>
-    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=nextjs" width="43" height="43"/><br>Next.js</td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=nestjs" width="43" height="43"/><br>Fastify</td>
     <td align="center" width="80"><img src="https://skillicons.dev/icons?i=prisma" width="43" height="43"/><br>Prisma</td>
   </tr>
   <tr>
-    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=tailwind" width="43" height="43"/><br>Tailwind</td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=sass" width="43" height="43"/><br>Sass</td>
     <td align="center" width="80"><img src="https://skillicons.dev/icons?i=redux" width="43" height="43"/><br>Redux</td>
     <td align="center" width="80"><img src="https://skillicons.dev/icons?i=docker" width="43" height="43"/><br>Docker</td>
     <td align="center" width="80"><img src="https://skillicons.dev/icons?i=postgres" width="43" height="43"/><br>Postgres</td>
@@ -31,17 +36,13 @@
   </tr>
 </table>
 </p>
+
 ---
 
-## 🚀 **Featured Projects**
 
-### [WIP-Messenger](https://github.com/Rozioi/WIP-Messenger) 💬
-**Real-time web messenger** with instant messaging and user presence  
-*Tech: React, Node.js, MongoDB, JWT, WebSocket*
-
-### [HomeDrive](https://github.com/Rozioi/HomeDrive) 📁
-**Cloud file storage** with user authentication and file management  
-*Tech: Express.js, PostgreSQL, JWT, Multer, React*
+<p align="center">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=Rozioi&data=followers,repositories,stars,commits&theme=dracula" />
+</p>
 
 ---
 
@@ -49,12 +50,12 @@
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rozioi&show_icons=true&theme=tokyonight&hide_border=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rozioi&layout=compact&theme=tokyonight&hide_border=true)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rozioi&theme=tokyonight&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rozioi&theme=gotham&hide_border=true)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Rozioi&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=Rozioi&color=0e75b6&style=flat&theme=gotham)
 
 </div>
 
@@ -90,6 +91,8 @@
 
 ---
 
+
+
 <div align="center">
   
 ### ⚡ **Let's Build Something Amazing Together!**
@@ -97,7 +100,9 @@
 [![GitHub Follow](https://img.shields.io/github/followers/Rozioi?style=social)](https://github.com/Rozioi)
   
 </div>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
 ---
 
 *✨ Updated with ❤️ by Vanya • Last update: January 2026*
