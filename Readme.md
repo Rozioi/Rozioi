@@ -9,22 +9,28 @@
 
 ### 🛠️ **Tech Stack**
 
-**Languages:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-
-**Backend:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastify/fastify-original.svg" alt="Fastify" width="40" height="40" style="background: white; border-radius: 5px; padding: 2px;"/>
-
-
-**Databases:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-
-**Frontend:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
-
-**Tools:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" alt="WebStorm" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"/>
-
+<p align="center">
+<table align="center">
+  <tr>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=mongodb" width="43" height="43"/><br>MongoDB</td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=express" width="43" height="43"/><br>Express</td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=react" width="43" height="43"/><br>React</td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=nodejs" width="43" height="43"/><br>Node.js</td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=ts" width="43" height="43"/><br>TypeScript</td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=nextjs" width="43" height="43"/><br>Next.js</td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=prisma" width="43" height="43"/><br>Prisma</td>
+  </tr>
+  <tr>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=tailwind" width="43" height="43"/><br>Tailwind</td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=redux" width="43" height="43"/><br>Redux</td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=docker" width="43" height="43"/><br>Docker</td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=postgres" width="43" height="43"/><br>Postgres</td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=webstorm" width="43" height="43"/><br>WebStorm</td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=git" width="43" height="43"/><br>Git</td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=firebase" width="43" height="43"/><br>Firebase</td>
+  </tr>
+</table>
+</p>
 ---
 
 ## 🚀 **Featured Projects**
