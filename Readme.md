@@ -50,9 +50,6 @@
 
 <div align="center">
   
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rozioi&layout=compact&theme=tokyonight&hide_border=true)
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rozioi&theme=gotham&hide_border=true)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Rozioi&color=0e75b6&style=flat&theme=gotham)
@@ -65,7 +62,6 @@
 
 - 📧 **Email:** [ivanzheleznuy@gmail.com](mailto:ivanzheleznuy@gmail.com)
 - 💬 **Telegram:** [@Ousyiyme](https://t.me/ousyiyme)
-- 🐙 **GitHub:** [github.com/Rozioi](https://github.com/Rozioi)
 
 ---
 
@@ -105,4 +101,4 @@
 </p>
 ---
 
-*✨ Updated with ❤️ by Vanya • Last update: January 2026*
+*✨ Updated with ❤️ by Vanya • Last update: April 2026*
