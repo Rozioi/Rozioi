@@ -76,10 +76,8 @@
 
 ## 🌍 **Languages**
 
-
 - **Russian** 🇷🇺 Native
 - **English** 🇬🇧 Intermediate (B1/B2) - Technical documentation
-
 
 ---
 
