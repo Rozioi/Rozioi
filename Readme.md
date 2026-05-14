@@ -37,7 +37,6 @@
 
 ---
 
-
 <p align="center">
   <img src="https://github-widgetbox.vercel.app/api/profile?username=Rozioi&data=followers,repositories,stars,commits&theme=dracula" />
 </p>
@@ -84,8 +83,6 @@
 ![snake gif](https://github.com/Rozioi/Rozioi/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
-
-
 
 <div align="center">
   
