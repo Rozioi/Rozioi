@@ -6,11 +6,9 @@
 
 ---
 
-
 <p align="center">
     <a href="https://github.com/Rozioi"><img src="https://github-readme-streak-stats.herokuapp.com?user=Rozioi&theme=gotham&hide_border=false" width="400px" alt="@Rozio's streak-stats"/></a>
 </p>
-
 
 ### 🛠️ **Tech Stack**
 
