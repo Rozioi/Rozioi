@@ -3,7 +3,6 @@
 </a>
 
 
-
 🎯 **Full-Stack JavaScript/TypeScript Developer** | 🚀 **Turning Ideas into Scalable Solutions**
 
 
@@ -61,7 +60,6 @@
 ## 📫 **Connect With Me**
 
 - 📧 **Email:** [ivanzheleznuy@gmail.com](mailto:ivanzheleznuy@gmail.com)
-- 💬 **Telegram:** [@Ousyiyme](https://t.me/ousyiyme)
 
 ---
 
