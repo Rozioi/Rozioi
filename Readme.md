@@ -97,5 +97,5 @@
 
 ---
 
-<p align="center">*✨ Updated with ❤️ by Vanya • Last update: April 2026* </p>
+<p align="center">✨ Updated with ❤️ by Rozioi • Last update: August 2026* </p>
 
