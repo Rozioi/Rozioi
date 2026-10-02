@@ -5,7 +5,6 @@
 
 🎯 **Full-Stack JavaScript/TypeScript Developer** | 🚀 **Turning Ideas into Scalable Solutions**
 
-
 ---
 
 
